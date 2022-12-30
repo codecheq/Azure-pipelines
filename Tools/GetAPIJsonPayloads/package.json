@@ -13,7 +13,7 @@
     "@types/q": "^1.5.1",
     "@types/xmldom": "^0.1.29",
     "fs": "^0.0.1-security",
-    "tsd": "^0.6.5",
+    "tsd": "^0.25.0",
     "vso-node-api": "^6.5.0",
     "vsts-task-lib": "^2.6.1"
   },
